@@ -8,3 +8,8 @@
 
 ​		感谢知道创宇404安全实验室对网络安全行业的贡献
 
+### Usage
+
+```python 
+python3 seebug_paper.py
+```
